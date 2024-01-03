@@ -37,7 +37,14 @@ All he wants is a simple data visualization tool which he can access on daily ba
      - Dahboard uncovering sales order insights with latest data available
      - Sales team able to take better decisions and prove 10% cost saving of total spend.
      - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
-   
+  
+
+![Capture](https://github.com/MarwanShams/Sales_insights_PowerBi/assets/142434135/4a05f6ea-6dbf-4b8c-aecd-59b5116cd51d)
+
+
+
+
+      
 ## Tools, Software and Libraries :
 
 1.MySQL
