@@ -40,6 +40,8 @@ All he wants is a simple data visualization tool which he can access on daily ba
   
 
 ![Capture](https://github.com/MarwanShams/Sales_insights_PowerBi/assets/142434135/4a05f6ea-6dbf-4b8c-aecd-59b5116cd51d)
+![Capture3](https://github.com/MarwanShams/Sales_insights_PowerBi/assets/142434135/56b21ec2-547e-4f16-be23-528ef584a0b5)
+![Capture2](https://github.com/MarwanShams/Sales_insights_PowerBi/assets/142434135/49016f5c-0e43-4cbc-b808-06b74bba6f21)
 
 
 
